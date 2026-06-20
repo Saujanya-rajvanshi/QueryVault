@@ -9,3 +9,11 @@ def load_table(table_name):
 def save_table(table_name, data):
     with open(f"database/{table_name}.json", "w") as file:
         json.dump(data, file, indent=4)
+
+def insert_record(table_name, record):
+
+    data = load_table(table_name)
+
+    data.append(record)
+
+    save_table(table_name, data)
