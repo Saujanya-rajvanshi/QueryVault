@@ -9,3 +9,10 @@ To make the invisible parts of a database visible.
              Query Engine
                     ↓
         Storage Layer (JSON files)
+        
+
+database/
+│
+├── students.json
+├── courses.json
+└── enrollments.json
