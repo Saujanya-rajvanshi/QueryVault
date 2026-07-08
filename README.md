@@ -9,7 +9,9 @@
  - [Project Architecture](#Project-Architecture)
  - [file structure](#file-structure)
  - [Development Roadmap](#Development-Roadmap)
- - []()
+ - [Future Improvements](#Future-Improvements)
+ - [Why This Project?](#Why-This-Project?)
+ - [Summary](#Summary)
 
 
 ### Project Overview
@@ -102,7 +104,7 @@ QUERYVAULT
 └── README.md
 ```
 
-### Development Roadmap
+## Development Roadmap
 
 ### Phase 1 – Storage Engine
 
@@ -343,9 +345,7 @@ Concepts Covered:
 * Lost Update Problem
 * Isolation Levels
 
----
-
-# Future Improvements
+### Future Improvements
 
 * Graphical query execution visualization
 * ER Diagram generation
@@ -359,9 +359,7 @@ Concepts Covered:
 * Authentication and authorization
 * Database backup and recovery
 
----
-
-# Why This Project?
+### Why This Project?
 
 QueryVault is more than just a CRUD application.
 
@@ -369,7 +367,7 @@ It is a learning-oriented project that recreates the core components of a databa
 
 The goal is to transform theoretical knowledge into practical engineering experience while building a portfolio project that demonstrates database internals, software design, and full-stack development skills.
 
-
+### Summary
 
 
 
