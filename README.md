@@ -1,4 +1,7 @@
-# QueryVault – Building a Database Management System from Scratch
+## QueryVault – Building a Database Management System from Scratch
+
+### INDEX
+ - [Project Overview](#Project-Overview)
 
 ### Project Overview
 
@@ -91,8 +94,7 @@ Storage Layer (JSON Files)
 ```
 
 
-### INDEX
- - []()
+
 
 
 ## Project Architecture 
