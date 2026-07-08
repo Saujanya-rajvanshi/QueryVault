@@ -13,12 +13,15 @@
  - [Why This Project?](#Why-This-Project?)
  - [Summary](#Summary)
 
+---
 
 ### Project Overview
 
 **QueryVault** is an educational Database Management System (DBMS) built from scratch using Python. Instead of relying on existing database systems like MySQL or PostgreSQL, this project focuses on understanding how a database works internally by implementing its core components step by step.
 
 The project is designed not only to execute SQL queries but also to visualize how those queries are processed inside a database engine.
+
+---
 
 ### Problem Statement
 
@@ -33,6 +36,8 @@ QueryVault aims to solve this by creating a simplified database engine that allo
 
 This project bridges the gap between theoretical DBMS concepts and practical implementation.
 
+---
+
 ### Objectives
 
 * Learn the internal architecture of a DBMS.
@@ -41,6 +46,8 @@ This project bridges the gap between theoretical DBMS concepts and practical imp
 * Visualize query execution step by step.
 * Understand indexing, transactions, and concurrency control.
 * Develop a full-stack application around a custom database engine.
+
+---
 
 ### Learning Outcomes
 
@@ -58,6 +65,8 @@ After completing this project, you will understand:
 * Concurrency Control
 * Database architecture
 
+---
+
 ### Tech Stack
 
 #### Backend
@@ -73,6 +82,8 @@ After completing this project, you will understand:
 #### Storage
 * JSON Files (initial implementation)
 
+---
+
 ### Project Architecture
 
                  Browser
@@ -84,6 +95,8 @@ After completing this project, you will understand:
              Query Engine
                     ↓
         Storage Layer (JSON files)
+
+---
 
 ### file structure 
 
@@ -103,6 +116,8 @@ QUERYVAULT
 ├── main.py
 └── README.md
 ```
+
+---
 
 ## Development Roadmap
 
