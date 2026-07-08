@@ -1,39 +1,6 @@
-To make the invisible parts of a database visible.
-
-## project Architecture 
-
-                 Browser
-                    ↓
-          React Frontend (Visualization)
-                    ↓
-            FastAPI Backend
-                    ↓
-             Query Engine
-                    ↓
-        Storage Layer (JSON files)
-
-## file structure 
-
-```
-QUERYVAULT
-|
-├── core
-|     └── databas_manager.py
-|
-├── database/
-|    ├── courses.json
-|    ├── enrollments.json
-|    └── students.json
-|
-├── models
-|
-├── main.py
-└── README.md
-```
-
 # QueryVault – Building a Database Management System from Scratch
 
-## Project Overview
+### Project Overview
 
 **QueryVault** is an educational Database Management System (DBMS) built from scratch using Python. Instead of relying on existing database systems like MySQL or PostgreSQL, this project focuses on understanding how a database works internally by implementing its core components step by step.
 
@@ -41,7 +8,7 @@ The project is designed not only to execute SQL queries but also to visualize ho
 
 ---
 
-# Problem Statement
+### Problem Statement
 
 Modern databases efficiently process millions of records, but the internal mechanisms behind query execution are often hidden from users.
 
@@ -122,6 +89,44 @@ Query Processing Engine
     ▼
 Storage Layer (JSON Files)
 ```
+
+
+### INDEX
+ - []()
+
+
+## Project Architecture 
+
+                 Browser
+                    ↓
+          React Frontend (Visualization)
+                    ↓
+            FastAPI Backend
+                    ↓
+             Query Engine
+                    ↓
+        Storage Layer (JSON files)
+
+## file structure 
+
+```
+QUERYVAULT
+|
+├── core
+|     └── databas_manager.py
+|
+├── database/
+|    ├── courses.json
+|    ├── enrollments.json
+|    └── students.json
+|
+├── models
+|
+├── main.py
+└── README.md
+```
+
+
 
 ---
 
