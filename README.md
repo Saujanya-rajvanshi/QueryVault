@@ -6,9 +6,9 @@
  - [Objectives](#Objectives)
  - [Learning Outcomes](#Learning-Outcomes)
  - [Tech Stack](#Tech-Stack)
- - []()
- - []()
- - []()
+ - [Project Architecture](#Project-Architecture)
+ - [file structure](#file-structure)
+ - [Development Roadmap](#Development-Roadmap)
  - []()
 
 
@@ -71,29 +71,7 @@ After completing this project, you will understand:
 #### Storage
 * JSON Files (initial implementation)
 
-# Project Architecture
-
-```text
-Browser
-    │
-    ▼
-React Frontend
-    │
-    ▼
-FastAPI Backend
-    │
-    ▼
-Query Processing Engine
-    │
-    ▼
-Storage Layer (JSON Files)
-```
-
-
-
-
-
-## Project Architecture 
+### Project Architecture
 
                  Browser
                     ↓
@@ -105,7 +83,7 @@ Storage Layer (JSON Files)
                     ↓
         Storage Layer (JSON files)
 
-## file structure 
+### file structure 
 
 ```
 QUERYVAULT
@@ -124,13 +102,9 @@ QUERYVAULT
 └── README.md
 ```
 
+### Development Roadmap
 
-
----
-
-# Development Roadmap
-
-## Phase 1 – Storage Engine
+### Phase 1 – Storage Engine
 
 ### Goal
 
