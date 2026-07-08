@@ -4,8 +4,8 @@
  - [Project Overview](#Project-Overview)
  - [Problem Statement](#Problem-Statement)
  - [Objectives](#Objectives)
- - []()
- - []()
+ - [Learning Outcomes](#Learning-Outcomes)
+ - [Tech Stack](#Tech-Stack)
  - []()
  - []()
  - []()
@@ -40,7 +40,7 @@ This project bridges the gap between theoretical DBMS concepts and practical imp
 * Understand indexing, transactions, and concurrency control.
 * Develop a full-stack application around a custom database engine.
 
-# Learning Outcomes
+### Learning Outcomes
 
 After completing this project, you will understand:
 
@@ -56,25 +56,20 @@ After completing this project, you will understand:
 * Concurrency Control
 * Database architecture
 
-# Tech Stack
+### Tech Stack
 
-## Backend
-
+#### Backend
 * Python
 * FastAPI (later phase)
 
-## Frontend
-
+#### Frontend
 * HTML
 * CSS
 * JavaScript
 * React (later phase)
 
-## Storage
-
+#### Storage
 * JSON Files (initial implementation)
-
----
 
 # Project Architecture
 
